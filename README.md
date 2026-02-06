@@ -31,7 +31,7 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
 - **Title**: 다관절 플렉시블 로봇암  
 - **Application No.**: 10-2862539  
 - **Description**:  
-  A multi-joint flexible robot arm capable of **two-axis bending motion**, achieved using a **wire-driven mechanism and multiple disk structures**.
+ This invention proposes a multi-joint flexible robot arm capable of smooth and continuous 360-degree omnidirectional motion, achieved through a vertical articulated structure and a wire–pulley-based coupled actuation mechanism.
 
 ---
 
