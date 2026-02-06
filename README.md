@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Junha Park
 
 I am a **Deep Learning Researcher** specializing in **surface defect detection** using advanced AI techniques.  
-Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunkwan University**.
+Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunkwan University**, with a focus on intelligent manufacturing and industrial AI.
 
 ---
 
@@ -27,11 +27,12 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
 ---
 
 ## 💡 Intellectual Property
+
 ### 📌 Patent
 - **Title**: 다관절 플렉시블 로봇암  
 - **Application No.**: 10-2862539  
 - **Description**:  
- This invention proposes a multi-joint flexible robot arm capable of smooth and continuous 360-degree omnidirectional motion, achieved through a vertical articulated structure and a wire–pulley-based coupled actuation mechanism.
+  This invention proposes a **multi-joint flexible robot arm** capable of **smooth and continuous 360-degree omnidirectional motion**, achieved through a **vertical articulated structure** and a **wire–pulley-based coupled actuation mechanism**.
 
 ---
 
@@ -48,13 +49,13 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
 - PyTorch, TensorFlow  
 - Computer Vision & Image Processing  
 
-### Database & DevOps
+### Systems & DevOps
 - Git & GitHub (Version Control, Collaboration)  
 - Linux (Ubuntu) – System Setup, Environment Management, Bash Scripting  
 
 ---
 
 ## 📫 Contact
-💡 *Always open to new opportunities and collaborations!*  
+💡 *Always open to new opportunities and collaborations.*  
 📧 Email: **junha0102@naver.com**  
 📍 Location: **South Korea 🇰🇷**
