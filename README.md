@@ -9,6 +9,13 @@ Currently, I am pursuing my M.S. in Smart Factory Convergence at Sungkyunkwan Un
   - Computer Vision
 
 ---------------------------------------------------------------------------------------------------------------
+
+🎓 Education
+  - M.S. in Smart Factory Convergence, Sungkyunkwan University (2026 - Present)
+  - B.S. in Robot Automation Engineering, Dongyang Mirae University (2020 - 2025)
+
+----
+📚 Seminar on Thesis Research
 <!--
 **junha010102/junha010102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
