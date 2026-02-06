@@ -1,4 +1,4 @@
-## Hi there 👋 Junha Park
+## Hi there 👋I'm Junha Park
 
 <!--
 **junha010102/junha010102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
