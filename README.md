@@ -28,7 +28,30 @@ Currently, I am pursuing my M.S. in Smart Factory Convergence at Sungkyunkwan Un
   -Patents
   -다관절 플렉시블 로봇암
     -출원 번호 : 제 10-2862539 
+    -설명 : 본 발명은 다수의 원판과 와이어 구동 구조를 이용해 2축으로 유연하게 휘어지는 다관절 플렉시블 로봇암에 관한 것이다.
 
+---
+🔧 Skills
+Programming & Frameworks
+  Python (Deep Learning, Computer Vision, PyTorch, TensorFlow, OpenCV)
+  C++ / Arduino (Embedded Systems, Motor Control, Robotics)
+  SolidWorks (Machine Modeling)
+  GENESIS64
+  GEMINI
+  GXW2/GXW3
+  
+Machine Learning & Deep Learning
+  PyTorch, TensorFlow, OpenCV
+  
+Database & DevOps
+  Git & GitHub (Version Control, Collaboration)
+  Linux (Ubuntu) (System Setup, Environment Management, Bash Scripting)
+
+---
+📫 Contact
+💡 Always open to new opportunities and collaborations!
+📧 Email: junha0102@naver.com
+📍 Location: South Korea 🇰🇷
 
 <!--
 **junha010102/junha010102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
