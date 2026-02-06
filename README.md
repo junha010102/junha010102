@@ -20,6 +20,16 @@ Currently, I am pursuing my M.S. in Smart Factory Convergence at Sungkyunkwan Un
 |-----|---------|---|
 |2026-01-19|GlobalCLIP: Zero-shot manufacturing anomaly detection with adaptive self-cyclic emsemble learning|[Link](https://www.youtube.com/watch?v=1RpPbS5X6uU&list=PL3Qkr3sk7Xne-OtiPeRFCsW4J1zb0Q3wH&index=31&t=739s)|
 |2026-02-02|An efficient and scale-aware zero-shot industrial anomaly detection technique|[Link](https://www.youtube.com/watch?v=WkmUhVqj7jA&list=PL3Qkr3sk7Xne-OtiPeRFCsW4J1zb0Q3wH&index=15&t=898s)|
+
+---
+💡 Intellectual Property
+  -Program Registrations
+
+  -Patents
+  -다관절 플렉시블 로봇암
+    -출원 번호 : 제 10-2862539 
+
+
 <!--
 **junha010102/junha010102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
