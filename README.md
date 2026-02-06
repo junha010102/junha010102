@@ -15,6 +15,7 @@ Currently, I am pursuing my M.S. in Smart Factory Convergence at Sungkyunkwan Un
   - B.S. in Robot Automation Engineering, Dongyang Mirae University (2020 - 2025)
 
 ----
+
 📚 Seminar on Thesis Research
 |Date|Title & Topic|Link|
 |-----|---------|---|
@@ -22,8 +23,9 @@ Currently, I am pursuing my M.S. in Smart Factory Convergence at Sungkyunkwan Un
 |2026-02-02|An efficient and scale-aware zero-shot industrial anomaly detection technique|[Link](https://www.youtube.com/watch?v=WkmUhVqj7jA&list=PL3Qkr3sk7Xne-OtiPeRFCsW4J1zb0Q3wH&index=15&t=898s)|
 
 ---
+
 💡 Intellectual Property
-  -Program Registrations
+-Program Registrations
 
   -Patents
     -다관절 플렉시블 로봇암
