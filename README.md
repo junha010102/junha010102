@@ -40,6 +40,11 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
 
 ---
 
+## 📝 Publications
+Conference Papers:
+
+J.Park, J.Jeong "GPS: GlobalCLIP-PatchCore-SAM Based Zero-Shot Anomaly Detection and Localization in Smart Manufacturing" in 2026 International Conference on Computational Science and Its Applications(ICCSA)
+
 ## 🔧 Skills
 
 ### Programming & Frameworks
