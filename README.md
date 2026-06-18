@@ -28,6 +28,8 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
 | 2026-03-17 | Training Free Zero-Shot Visual Anomaly Localization via Diffusion Inversion (DIVAD) | [Link](https://www.youtube.com/watch?v=qUQOM_qcsqk&t=6s) |
 | 2026-03-31 | DNPR: Zero-shot industrial anomaly detection via dynamic normal prototype refinement | [Link](https://www.youtube.com/watch?v=ic_rtRgp1hU&t=8s) |
 | 2026-04-28 | VCP-CLIP: A Visual Context Prompting Model for Zero-Shot Anomaly Segmentation | [Link](https://www.youtube.com/watch?v=9Ep0PBx9KOM) |
+| 2026-05-15 | Securing Manufacturing Using Blockchain | [Link](https://www.youtube.com/watch?v=awUlHtAsewk&t=3s) |
+| 2026-06-02 | Bootstrap Fine-Grained Vision-Language Alignment for Unified Zero-Shot Anomaly Localization (AnoCLIP) | [Link](https://www.youtube.com/watch?v=lYICdvP7Gwg&t=39s) |
 ---
 
 ## 💡 Intellectual Property
