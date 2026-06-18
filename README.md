@@ -42,6 +42,25 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
 
 ---
 
+### 📌 Software Copyright
+- **Title**: GlobalCLIP-Patchcore-SAM(GPS)를 활용한 스마트제조환경에서의 이상탐지 및 위치추정  
+- **Registration No.**: C-2026-028006  
+- **Registration Date**: 2026.06.09  
+- **Holder**: 성균관대학교 산학협력단  
+- **Type**: 컴퓨터프로그램저작물 > 응용프로그램 > 산업용 S/W > 공정제어용 S/W  
+- **Description**:  
+  A zero-shot anomaly detection and localization software for smart manufacturing, integrating **GlobalCLIP-based image-level scoring**, **PatchCore memory bank**, and **SAM-based boundary refinement**.
+
+- **Title**: GPTCLIP: GlobalCLIP Patch Token을 활용한 제로샷 산업용 이상 탐지 및 위치 추정 모델  
+- **Registration No.**: C-2026-028883  
+- **Registration Date**: 2026.06.11  
+- **Holder**: 성균관대학교 산학협력단  
+- **Type**: 컴퓨터프로그램저작물 > 응용프로그램 > 산업용 S/W > 공정제어용 S/W  
+- **Description**:  
+  A zero-shot industrial anomaly detection and localization framework combining **GlobalCLIP image-level scoring** with **CLIP patch token-based pixel-level localization**.
+
+---
+
 ## 📝 Publications
 Conference Papers:
 
