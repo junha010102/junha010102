@@ -87,5 +87,5 @@ J.Park, J.Jeong "GPS: GlobalCLIP-PatchCore-SAM Based Zero-Shot Anomaly Detection
 
 ## 📫 Contact
 💡 *Always open to new opportunities and collaborations.*  
-📧 Email: **junha0102@naver.com**  
+📧 Email: **junha0102@naver.com**  , **junha010102@g.skku.edu**
 📍 Location: **South Korea 🇰🇷**
